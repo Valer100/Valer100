@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![Scratch](https://img.shields.io/badge/Scratch-e37405?style=flat&logo=scratch&logoColor=white)
 #### 💿 I'm using the following OSes:
 ![Windows](https://img.shields.io/badge/11%20Pro-252626?style=flat&logo=windows11&logoColor=white&label=Windows&labelColor=0078D6) 
 ![Android](https://img.shields.io/badge/11-252626?style=flat&logo=android&logoColor=white&label=Android&labelColor=00a158)
