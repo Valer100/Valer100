@@ -7,7 +7,7 @@
 ![Windows](https://img.shields.io/badge/11%20Pro-252626?style=flat&logo=windows11&logoColor=white&label=Windows&labelColor=0078D6) 
 ![Android](https://img.shields.io/badge/11-252626?style=flat&logo=android&logoColor=white&label=Android&labelColor=00a158)
 #### 🧩 I use:
-![Firefox](https://img.shields.io/badge/Main%20Browser-252626?style=flat&logo=Firefox-Browser&logoColor=white&label=Firefox&labelColor=260969)
+![Chrome](https://img.shields.io/badge/Main%20Browser-252626?style=flat&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=b58f07)
 ![Edge](https://img.shields.io/badge/Secondary%20Browser-252626?style=flat&logo=Microsoft-edge&logoColor=white&label=Edge&labelColor=0c9c5e)
 ![VS Code](https://img.shields.io/badge/Main%20IDE-252626.svg?style=flat&logo=visualstudiocode&logoColor=white&label=Visual%20Studio%20Code&labelColor=007ACC)
 ![Notepad++](https://img.shields.io/badge/Secondary%20IDE-252626.svg?style=flat&logo=notepad%2B%2B&logoColor=white&label=Notepad%2b%2b&labelColor=10c251)
