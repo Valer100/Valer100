@@ -14,8 +14,6 @@
 ![Notepad++](https://img.shields.io/badge/Text%20editor-252626.svg?style=flat&logo=notepad%2B%2B&logoColor=white&label=Notepad%2b%2b&labelColor=13692a)
 ![Terminal](https://img.shields.io/badge/Terminal-252626?style=flat&logo=windows%20terminal&logoColor=white&label=Windows%20Terminal&labelColor=4D4D4D)
 ![OBS Studio](https://img.shields.io/badge/Screen%20recorder-252626?style=flat&logo=obsstudio&logoColor=white&label=OBS%20Studio&labelColor=101010)
-
-#### 📗 I like open source projects
 <br>
 
 ## 📈 My Stats:
