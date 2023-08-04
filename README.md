@@ -6,7 +6,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-212121?style=flat&logo=markdown&logoColor=white)
 #### 💿 OSes I use:
 ![Windows 11](https://img.shields.io/badge/11%20Pro-252626?style=flat&logo=windows11&logoColor=white&label=Windows&labelColor=1450b8) 
-![Windows 10](https://img.shields.io/badge/10%20Pro-252626?style=flat&logo=windows&logoColor=white&label=Windows&labelColor=0078D6) 
+![Windows 10](https://img.shields.io/badge/10%20Pro-252626?style=flat&logo=windows10&logoColor=white&label=Windows&labelColor=0078D6) 
 ![Android](https://img.shields.io/badge/11-252626?style=flat&logo=android&logoColor=white&label=Android&labelColor=00a158)
 #### 🧩 Apps I use:
 ![Chrome](https://img.shields.io/badge/Main%20Browser-252626?style=flat&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=9e9c0b)
