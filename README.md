@@ -1,5 +1,5 @@
 ## 😊 Welcome to my profile!
-#### 💻 Programming languages I use:
+#### 💻 I like to use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-f24a24?style=flat&logo=css3&logoColor=white) 
