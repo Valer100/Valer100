@@ -1,4 +1,4 @@
-## Welcome to my profile!
+## **Welcome to my profile!**
 💻 **I like to use:**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
