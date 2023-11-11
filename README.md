@@ -1,6 +1,6 @@
 ![Welcome to my profile!](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=450&lines=Welcome+to+my+profile!)
 ---
-![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=27&duration=1&pause=1000&color=2E972897&vCenter=true&random=false&width=200&height=30&lines=💻++I+like+to+use:)
+![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=27&duration=1&pause=1000&color=2E972897&vCenter=true&random=false&width=450&lines=💻++I+like+to+use:)
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
