@@ -1,4 +1,4 @@
-![Welcome to my profile!](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=450&lines=Welcome+to+my+profile!)
+![Welcome to my profile!](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=26a31f&vCenter=true&random=false&width=450&lines=Welcome+to+my+profile!)
 ---
 ![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=27&duration=1&pause=1000&color=5bab57&vCenter=true&random=false&width=450&lines=💻++I+like+to+use:)
 <br>
