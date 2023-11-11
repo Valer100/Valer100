@@ -22,7 +22,3 @@
 ![Notepad++](https://img.shields.io/badge/Text%20editor-252626.svg?style=flat&logo=notepad%2B%2B&logoColor=white&label=Notepad%2b%2b&labelColor=13692a)
 ![paint.net](https://img.shields.io/badge/Image%20editor-252626?style=flat&logoColor=white&label=paint.net&labelColor=410f8c)
 ![Inno Setup Compiler](https://img.shields.io/badge/Installer%20creator-252626?style=flat&logoColor=white&label=Inno%20Setup%20Compiler&labelColor=1489b8)
-<br><br>
-📈 **My Stats:**
-<br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valer100&count_private=true&text_bold=false&include_all_commits=true&show_icons=true&hide_rank=true&card_width=400px&hide_title=true&hide_border=false&theme=blue-green)](https://github.com/Valer100?tab=repositories)<br>
