@@ -1,5 +1,5 @@
 [![Welcome to my profile!](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-[![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💻+I+like+to+use:)](https://git.io/typing-svg)
+[![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=1&pause=1000&color=c9ad0a&vCenter=true&random=false&width=455&lines=💻++I+like+to+use:)](https://git.io/typing-svg)
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) 
