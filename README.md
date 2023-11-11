@@ -6,7 +6,6 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-f24a24?style=flat&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-212121?style=flat&logo=markdown&logoColor=white)
-<br><br>
 ---
 ![OSes I use::](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=27&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💿++OSes+I+use:)
 <br>
