@@ -3,7 +3,7 @@
 ![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=27&duration=1&pause=1000&color=2E972897&vCenter=true&random=false&width=450&lines=💻++I+like+to+use:)
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-7828d4?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-f24a24?style=for-the-badge&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white)
