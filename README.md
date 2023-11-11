@@ -1,18 +1,18 @@
 [![Welcome to my profile!](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-[![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💻++I+like+to+use:)](https://git.io/typing-svg)
+[![I like to use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💻++I+like+to+use:)](https://git.io/typing-svg)
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-f24a24?style=flat&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-212121?style=flat&logo=markdown&logoColor=white)
 <br><br>
-[![OSes I use::](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💿++OSes+I+use:)](https://git.io/typing-svg)
+[![OSes I use::](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=💿++OSes+I+use:)](https://git.io/typing-svg)
 <br>
 ![Windows 11](https://img.shields.io/badge/11%20Pro-252626?style=flat&logo=windows11&logoColor=white&label=Windows&labelColor=1450b8) 
 ![Windows 10](https://img.shields.io/badge/10%20Pro-252626?style=flat&logo=windows10&logoColor=white&label=Windows&labelColor=0078D6) 
 ![Android](https://img.shields.io/badge/11-252626?style=flat&logo=android&logoColor=white&label=Android&labelColor=00a158)
 <br><br>
-[![Appd I use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=🧩++Apps+I+use:)](https://git.io/typing-svg)
+[![Appd I use:](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=🧩++Apps+I+use:)](https://git.io/typing-svg)
 <br>
 ![Chrome](https://img.shields.io/badge/Main%20Browser-252626?style=flat&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=9e9c0b)
 ![Edge](https://img.shields.io/badge/Secondary%20Browser-252626?style=flat&logo=Microsoft-edge&logoColor=white&label=Edge&labelColor=0c9c5e)
