@@ -1,4 +1,4 @@
-[![Welcome](https://readme-typing-svg.demolab.com?font=Quicksand&weight=800&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=40&duration=1&pause=1000&color=2E9728&vCenter=true&random=false&width=455&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 💻 **I like to use:**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
