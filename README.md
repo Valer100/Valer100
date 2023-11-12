@@ -27,4 +27,4 @@
 ---
 ![My stats:](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=6b9728&vCenter=true&random=false&width=455&lines=📈++My+stats:)
 <br>
-![Valer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=10&disable_animations=true&hide_rank=true&width=200)
+![Valer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=10&disable_animations=true&rank_icon=github&width=200)
