@@ -24,3 +24,7 @@
 ![Notepad++](https://img.shields.io/badge/Text%20editor-252626.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&label=Notepad%2b%2b&labelColor=13692a)
 ![paint.net](https://img.shields.io/badge/Image%20editor-252626?style=for-the-badge&logoColor=white&label=paint.net&labelColor=410f8c)
 ![Inno Setup Compiler](https://img.shields.io/badge/Installer%20creator-252626?style=for-the-badge&logoColor=white&label=Inno%20Setup%20Compiler&labelColor=1489b8)
+---
+![My stats:](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=6b9728&vCenter=true&random=false&width=455&lines=📈++My+stats:)
+<br>
+![Valer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko)
