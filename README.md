@@ -12,7 +12,8 @@
 <br>
 ![Windows 11](https://img.shields.io/badge/11%20Pro-252626?&logo=windows11&style=for-the-badge&logoColor=white&label=Windows&labelColor=1450b8) 
 ![Windows 10](https://img.shields.io/badge/10%20Pro-252626?style=for-the-badge&logo=windows10&logoColor=white&label=Windows&labelColor=0078D6) 
-![Android](https://img.shields.io/badge/11-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=00a158)
+![Android 11](https://img.shields.io/badge/11-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=E65100)
+![Android14](https://img.shields.io/badge/14-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=E65100)
 ---
 ![Apps I use:](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=6b9728&vCenter=true&random=false&width=455&lines=🧩++Apps+I+use:)
 <br>
