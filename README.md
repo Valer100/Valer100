@@ -18,7 +18,6 @@
 ![Apps I use:](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1000&color=6b9728&vCenter=true&random=false&width=455&lines=🧩++Apps+I+use:)
 <br>
 ![Chrome](https://img.shields.io/badge/Main%20Browser-252626?style=for-the-badge&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=9e9c0b)
-![Edge](https://img.shields.io/badge/Secondary%20Browser-252626?style=for-the-badge&logo=Microsoft-edge&logoColor=white&label=Edge&labelColor=0c9c5e)
 ![VS Code](https://img.shields.io/badge/Main%20IDE-252626.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&label=Visual%20Studio%20Code&labelColor=007ACC)
 ![Terminal](https://img.shields.io/badge/Terminal-252626?style=for-the-badge&logo=windows%20terminal&logoColor=white&label=Windows%20Terminal&labelColor=4D4D4D)
 ![OBS Studio](https://img.shields.io/badge/Screen%20recorder-252626?style=for-the-badge&logo=obsstudio&logoColor=white&label=OBS%20Studio&labelColor=101010)
