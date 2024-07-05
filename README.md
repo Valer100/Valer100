@@ -24,3 +24,5 @@
 
 ## 📈 My stats:
 ![Valer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=200&hide_border=true)
+
+![Valer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=200&hide_border=true)
