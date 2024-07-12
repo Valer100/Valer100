@@ -12,7 +12,7 @@
 ![Windows 10](https://img.shields.io/badge/10%20Pro-252626?style=for-the-badge&logo=windows10&logoColor=white&label=Windows&labelColor=0078D6) 
 ![Linux Mint](https://img.shields.io/badge/21-252626?style=for-the-badge&logo=linuxmint&logoColor=white&label=Linux%20Mint&labelColor=68B440) 
 ![Android 11](https://img.shields.io/badge/11-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=083042)
-![Android14](https://img.shields.io/badge/14-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=F86734)
+![Android 14](https://img.shields.io/badge/14-252626?style=for-the-badge&logo=android&logoColor=white&label=Android&labelColor=F86734)
 
 ## 💿 Programs I use:
 ![Chrome](https://img.shields.io/badge/Main%20Browser-252626?style=for-the-badge&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=DD3428)
@@ -20,6 +20,7 @@
 ![Terminal](https://img.shields.io/badge/Terminal-252626?style=for-the-badge&logo=windows%20terminal&logoColor=white&label=Windows%20Terminal&labelColor=4D4D4D)
 ![OBS Studio](https://img.shields.io/badge/Screen%20recorder-252626?style=for-the-badge&logo=obsstudio&logoColor=white&label=OBS%20Studio&labelColor=101010)
 ![Notepad++](https://img.shields.io/badge/Text%20editor-252626.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&label=Notepad%2b%2b&labelColor=13692a)
+![VirtualBox](https://img.shields.io/badge/Virtualization%20software%20-252626.svg?style=for-the-badge&logo=virtualbox&logoColor=white&label=VirtualBox&labelColor=15345A)
 ![paint.net](https://img.shields.io/badge/Image%20editor-252626?style=for-the-badge&logoColor=white&label=paint.net&labelColor=410f8c)
 ![Inno Setup Compiler](https://img.shields.io/badge/Installer%20creator-252626?style=for-the-badge&logoColor=white&label=Inno%20Setup%20Compiler&labelColor=1489b8)
 
