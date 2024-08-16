@@ -1,4 +1,4 @@
-[![Welcome to my profile](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=40&duration=0.1&pause=1000&color=02BA16&vCenter=true&random=false&width=450&lines=Welcome+to+my+profile!)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[![Welcome to my profile](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=50&duration=0.1&pause=1000&color=02BA16&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## 👨‍💻 I like to use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
