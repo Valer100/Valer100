@@ -26,6 +26,6 @@
 ## 📈 My stats:
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=blue-green&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=2000&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=blue-green&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=nightowl&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=2000&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=nightowl&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&hide_border=true)
 </div>
