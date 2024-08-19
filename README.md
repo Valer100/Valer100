@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=100:02ba64,0:02BA16&height=150&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=30&fontColor=FFFFFF)
+![](https://capsule-render.vercel.app/api?type=waving&color=100:02403a,0:024024&height=150&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=30&fontColor=FFFFFF)
 
 ## 👨‍💻 I like to use:
 ![Python](https://img.shields.io/badge/Python-036325?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +26,6 @@
 ## 📈 My stats:
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=2000&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=blue-green&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&width=2000&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=blue-green&show=reviews,discussions_answered&border_radius=20&disable_animations=true&rank_icon=github&hide_border=true)
 </div>
