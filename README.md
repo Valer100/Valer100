@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF)
 
-## <img src="icons/languages.png" width=23/> I like to use:
+## <img src="icons/languages.png" width=23/> Languages I use:
 ![Python](https://img.shields.io/badge/Python-04261e?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-014027?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-04261e?style=for-the-badge&logo=html5&logoColor=white)
