@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=100:02403a,0:024024&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF)
+![](https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF)
 
 ## 👨‍💻 I like to use:
 ![Python](https://img.shields.io/badge/Python-04261e?style=for-the-badge&logo=python&logoColor=white)
