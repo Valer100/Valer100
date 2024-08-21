@@ -2,6 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF"/>
 </div>
 
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b&layout=compact)
+</div>
+
 ## <img src="icons/languages.png" width=23/> Languages I use:
 ![Python](https://img.shields.io/badge/Python-04261e?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-014027?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,5 +35,5 @@
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b&layout=compact)
 </div>
