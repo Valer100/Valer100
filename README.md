@@ -4,8 +4,10 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=ECFCF1&title_color=059A49&text_color=023F1E&icon_color=1B5036#gh-light-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b&layout=compact#gh-dark-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=ECFCF1&title_color=059A49&text_color=023F1E&icon_color=1B5036&layout=compact#gh-light-mode-only)
 </div>
 
 ## <img src="icons/languages.png" width=23/> Languages I use:
