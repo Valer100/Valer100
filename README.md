@@ -1,12 +1,13 @@
 <div align="center">
 
-![Profile banner](https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF)
+[![Welcome banner dark](https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
+[![Welcome banner light](https://capsule-render.vercel.app/api?type=waving&color=100:45E098,0:7FE2B4&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=000000#gh-ligt-mode-only)](https://github.com/Valer100#gh-ligt-mode-only)
 </div>
 
 <div align="center">
   
 [![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
-[![GitHub stats light](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=C5F9D5&title_color=059A49&text_color=023F1E&icon_color=1B5036#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
+[![GitHub stats light](https://github-readme-stats.vercel.app/api?username=Valer100&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=DEF7E6&title_color=059A49&text_color=023F1E&icon_color=1B5036#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 [![Top languages dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=000d06&title_color=31e088&text_color=a6e3c4&icon_color=64b38b&layout=compact#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
 [![Top languages light](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=DEF7E6&title_color=059A49&text_color=023F1E&icon_color=1B5036&layout=compact#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 </div>
