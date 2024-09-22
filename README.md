@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Welcome banner dark](https://capsule-render.vercel.app/api?type=waving&color=100:065230,0:06521c&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
-[![Welcome banner light](https://capsule-render.vercel.app/api?type=waving&color=100:158E29,0:2CDD6A&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=000000#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
+[![Welcome banner light](https://capsule-render.vercel.app/api?type=waving&color=100:158E29,0:2CDD6A&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=FFFFFF#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 </div>
 
 <div align="center">
