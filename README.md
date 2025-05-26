@@ -12,7 +12,7 @@
 [![Top languages light](https://github-readme-stats.vercel.app/api/top-langs/?username=Valer100&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=DEF7E6&title_color=059A49&text_color=023F1E&icon_color=1B5036&layout=compact#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 </div>
 
-## <picture><source srcset="icons/dark_mode/languages.png" media="(prefers-color-scheme: dark)" width=23/><source srcset="icons/light_mode/languages.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width=23/><img src="icons/light_mode/languages.png" width=23/></picture> Languages I use:
+## <picture><source srcset="icons/dark_mode/languages.png" media="(prefers-color-scheme: dark)" width=23/><source srcset="icons/light_mode/languages.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width=23/><img src="icons/light_mode/languages.png" width=23/></picture> Languages I know:
 [![Python](https://img.shields.io/badge/Python-04261e?style=for-the-badge&logo=python&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
 [![Python](https://img.shields.io/badge/Python-1D5C4E?style=for-the-badge&logo=python&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 [![C++](https://img.shields.io/badge/C++-014027?style=for-the-badge&logo=cplusplus&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
