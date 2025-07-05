@@ -19,10 +19,12 @@
 [![C++](https://img.shields.io/badge/C++-098751?style=for-the-badge&logo=cplusplus&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 [![HTML](https://img.shields.io/badge/HTML-04261e?style=for-the-badge&logo=html5&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
 [![HTML](https://img.shields.io/badge/HTML-1D5C4E?style=for-the-badge&logo=html5&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
-[![CSS](https://img.shields.io/badge/CSS-014027?style=for-the-badge&logo=css3&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
-[![CSS](https://img.shields.io/badge/CSS-098751?style=for-the-badge&logo=css3&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
-[![Markdown](https://img.shields.io/badge/Markdown-04261e?style=for-the-badge&logo=markdown&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
-[![Markdown](https://img.shields.io/badge/Markdown-1D5C4E?style=for-the-badge&logo=markdown&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
+[![CSS](https://img.shields.io/badge/CSS-014027?style=for-the-badge&logo=css&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
+[![CSS](https://img.shields.io/badge/CSS-098751?style=for-the-badge&logo=css&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
+[![JavaScript](https://img.shields.io/badge/JavaScript-04261e?style=for-the-badge&logo=javascript&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1D5C4E?style=for-the-badge&logo=javascript&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
+[![Markdown](https://img.shields.io/badge/Markdown-014027?style=for-the-badge&logo=markdown&logoColor=white#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
+[![Markdown](https://img.shields.io/badge/Markdown-098751?style=for-the-badge&logo=markdown&logoColor=white#gh-light-mode-only)](https://github.com/Valer100#gh-light-mode-only)
 
 ## <picture><source srcset="icons/dark_mode/oses.png" media="(prefers-color-scheme: dark)" width=23/><source srcset="icons/light_mode/oses.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width=23/><img src="icons/light_mode/oses.png" width=23/></picture> Operating systems I use:
 [![Windows 11](https://img.shields.io/badge/11%20Pro-060d0a?&style=for-the-badge&logoColor=white&label=Windows&labelColor=04261e&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJUExURf////7+/gAAAMB0XpwAAAADdFJOU///ANfKDUEAAAAJcEhZcwAADsIAAA7CARUoSoAAAABISURBVFhH7dIxDgAgCARBzv8/Wi+xJiqd7FaQkKmIvLHa41sAAA4AwAEAOIAjwCeVfgCyJJ9Ie72vDHT5xDwAAAcA4ABaABETyPkD6cMh+NUAAAAASUVORK5CYII=#gh-dark-mode-only)](https://github.com/Valer100#gh-dark-mode-only)
